@@ -1,0 +1,1 @@
+The module scaffolds up the initial structure to manage the governance of naming standards
